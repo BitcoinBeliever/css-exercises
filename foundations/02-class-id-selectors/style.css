@@ -1,0 +1,20 @@
+
+.odds{
+    background-color: rgb(250, 167, 231);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.odds.cooler{
+    font-size: 24px;
+}
+
+#firstid{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#secondid{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: 700;
+}
